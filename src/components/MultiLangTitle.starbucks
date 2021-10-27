@@ -1,0 +1,5 @@
+#starbucks component (obj, nativeLang, learningLang)
+
+h1
+		{obj[nativeLang]}
+		{obj[learningLang]}

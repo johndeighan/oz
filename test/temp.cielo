@@ -1,0 +1,18 @@
+# temp.cielo
+
+import {loadPrivEnvFrom} from '@jdeighan/env'
+
+root = "c:/Users/johnd/oz"
+loadPrivEnvFrom(root)
+
+filename = '_index.starbucks'
+inpath = "#{root}/src/routes/#{filename}"
+content = slurp(inpath)
+log sep_eq
+log content
+log sep_eq
+setPrivEnvVar 'DIR_STORES', "c:/Users/johnd/oz/src/stores"
+hResult = starbucks({content, filename})
+code = hResult.code
+log code
+log sep_eq

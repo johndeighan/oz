@@ -1,0 +1,14 @@
+#starbucks webpage store=oz
+
+# h1 {$oz.title.en} {$oz.title.zh}
+MultiLangTitle obj={$oz.title} nativeLang='en' learningLang='zh'
+p by {$oz.author.en}
+
+#for para in $oz.lParagraphs
+	hr
+	div.para
+		#for sent in para.lSentences
+			p {sent.en}
+			p {sent.zh}
+			p {sent.pinyin}
+
