@@ -138,10 +138,6 @@ lParagraphs:
 	-
 		lSentences:
 		-
-			en: xxxxx
-			zh: xxxxx
-			pinyin: xxxxx
-		-
 			en: The ugly duckling bowed his head toward the water, and saw his reflection.
 			zh: 丑小鸭把头低垂到水面上, 他看到了自己的倒影.
 			pinyin: Chǒuxiǎoyā bǎtóu dī chuí dào shuǐmiàn shàng, tā kàn dàole zìjǐ de dàoyǐng.
@@ -149,3 +145,13 @@ lParagraphs:
 			en: He was no longer a clumsy, dark gray ugly and annoying duck, but he was a swan!
 			zh: 那不再是一只粗笨的, 深灰色的又丑又令人讨厌的鸭子, 而是一只天鹅!
 			pinyin: Nà bù zài shì yī zhǐ cūbèn de, shēn huīsè de yòu chǒu yòu lìng rén tǎoyàn de yāzi, ér shì yī zhǐ tiān'é!
+	-
+		lSentences:
+		-
+			en: Everyone praised this new swan as the most beautiful.
+			zh: 人人都称赞这只新来的天鹅最美丽.
+			pinyin: Rén rén dōu chēngzàn zhè zhǐ xīn lái de tiān'é zuì měilì.
+		-
+			en: The swan cried with joy: "I never thought there would be this day, I am so happy!"
+			zh: 这只天鹅喜极而泣: "我从没想到会有这一天, 我真是太高兴了!"
+			pinyin: Zhè zhǐ tiān'é xǐjí'érqì: "Wǒ cóng méi xiǎngdào huì yǒu zhè yītiān, wǒ zhēnshi tài gāoxìngle!"
