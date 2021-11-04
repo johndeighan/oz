@@ -115,7 +115,7 @@ lParagraphs:
 			zh: "请你取一颗给他."
 			pinyin: "Qǐng nǐ qǔ yī kē gěi tā."
 		-
-			en: The swallow removed one of the prince's eyes and flew to the attic.
+			en: The swallow took off one of the prince's eyes and flew to the attic.
 			zh: 燕子取下王子的一只眼睛, 朝阁楼飞去.
 			pinyin: Yànzi qǔ xià wángzǐ de yī zhī yǎnjīng, cháo gélóu fēi qù.
 	-
@@ -161,16 +161,48 @@ lParagraphs:
 			zh: 请把我的另一只眼睛给她送去.
 			pinyin: Qǐng bǎ wǒ de lìng yī zhī yǎnjīng gěi tā sòng qù.
 		-
-			en: The swallow removed the other eye of the prince and flew down with it.
+			en: The swallow took off the other eye of the prince and flew down with it.
 			zh: 燕子取下了王子的另一只眼, 带着它朝下飞去.
 			pinyin: Yànzi qǔ xiàle wángzǐ de lìng yī zhī yǎn, dàizhe tā cháo xià fēi qù.
 	-
 		lSentences:
 		-
-			en: xxxxx
-			zh: xxxxx
-			pinyin: xxxxx
+			en: The swallow came back to the happy prince.
+			zh: 燕子回到快乐王子身边.
+			pinyin: Yàn zǐ huí dào kuàilè wángzǐ shēnbiān.
 		-
-			en: xxxxx
-			zh: xxxxx
-			pinyin: xxxxx
+			en: He told him: "You are blind now, so I will be with you forever."
+			zh: 对他说: "你现在瞎了, 所以我将会永远陪着你."
+			pinyin: Duì tā shuō: "Nǐ xiànzài xiāle, suǒyǐ wǒ jiāng huì yǒngyuǎn péizhe nǐ."
+		-
+			en: The next day, the swallow stood on the shoulders of the prince and told him about his experiences in a foreign country.
+			zh: 第二天, 燕子站在王子肩上, 给他讲述自己在异国他乡的见闻和经历.
+			pinyin: Dì èr tiān, yànzi zhàn zài wángzǐ jiān shàng, gěi tā jiǎngshù zìjǐ zài yìguó tāxiāng de jiànwén hé jīnglì.
+	-
+		lSentences:
+		-
+			en: "Look, the rich are having fun in their beautiful houses, while the beggars are sitting at the gate and starving."
+			zh: "看啊, 富人们在自己漂亮的洋楼里寻欢作乐, 而乞丐们却坐在大门口忍饥挨饿."
+			pinyin: "Kàn a, fù rénmen zài zìjǐ piàoliang de yáng lóu lǐ xún huān zuòlè, ér qǐgàimen què zuò zài dà ménkǒu rěn jī āi è."
+		-
+			en: "Just under a bridge, two children are hugging each other to keep warm," the swallow told the Happy Prince.
+			zh: "就在一座桥的桥洞里面两个孩子相互搂抱着取暖", 燕子告诉快乐王子.
+			pinyin: "Jiù zài yīzuò qiáo de qiáodòng lǐmiàn liǎng gè hái zǐ xiānghù lǒubàozhe qǔnuǎn", yànzi gàosù kuàilè wángzǐ.
+	-
+		lSentences:
+		-
+			en: "My whole body is covered with pieces of gold," said the Happy Prince.
+			zh: "我浑身贴满黄金片", 快乐王子说.
+			pinyin: "Wǒ húnshēn tiē mǎn huángjīn piàn", kuàilè wángzǐ shuō.
+		-
+			en: "Give them to the poor".
+			zh: "你把它们给那些穷人们送去".
+			pinyin: "Nǐ bǎ tā men gěi nàxiē qióngrénmen sòng qù".
+		-
+			en: The swallow picked off the golden leaves piece by piece and gave them to the poor.
+			zh: 燕子把金叶子一片一片啄下来送给穷人们.
+			pinyin: Yànzi bǎ jīn yèzi yīpiàn yīpiàn zhuó xiàlái sòng gěi qióngrénmen.
+		-
+			en: The swallow felt colder and colder. He kissed the prince and fell asleep.
+			zh: 燕子觉得越来越冷了, 它亲吻了王子, 睡着了.
+			pinyin: Yànzi juédé yuè lái yuè lěngle, tā qīnwěnle wángzǐ, shuìzhele.
