@@ -42,7 +42,7 @@ lParagraphs:
 	-
 		lSentences:
 		-
-			en: The big bad wolf bought some dough and ate it.
+			en: The big gray wolf bought some dough and ate it.
 			zh: 大灰狼买了一些面团吃下去.
 			pinyin: Dà huī láng mǎile yīxiē miàntuán chī xiàqù.
 		-
@@ -70,10 +70,120 @@ lParagraphs:
 	-
 		lSentences:
 		-
-			en: xxxxx
-			zh: xxxxx
-			pinyin: xxxxx
+			en: The big gray wolf put his paw on the window.
+			zh: 大灰狼把爪子放在窗上.
+			pinyin: Dà huī láng bǎ zhuǎzi fàng zài chuāng shàng.
 		-
-			en: xxxxx
-			zh: xxxxx
-			pinyin: xxxxx
+			en: The lambs thought their mother really came back.
+			zh: 小羊们以为妈妈真回来了.
+			pinyin: Xiǎo yángmen yǐwéi māmā zhēn huíláile.
+		-
+			en: They opened the door.
+			zh: 它们就打开了门.
+			pinyin: Tāmen jiù dǎkāile mén.
+	-
+		lSentences:
+		-
+			en: The big gray wolf rushed in.
+			zh: 大灰狼冲了进来.
+			pinyin: Dà huī láng chōngle jìnlái.
+		-
+			en: The seven lambs were terrified.
+			zh: 七只小羊吓坏了.
+			pinyin: Qī zhǐ xiǎo yáng xià huàile.
+	-
+		lSentences:
+		-
+			en: The big gray wolf swallowed six lambs into its stomach.
+			zh: 大灰狼把六只小羊吞到了肚子里.
+			pinyin: Dà huī láng bǎ liù zhǐ xiǎo yáng tūn dàole dùzi lǐ.
+		-
+			en: Only the lamb hiding in the clock box could not be found.
+			zh: 只有躲在钟盒里的那只小羊它没有找到.
+			pinyin: Zhǐyǒu duǒ zài zhōng hé lǐ dì nà zhǐ xiǎo yáng tā méiyǒu zhǎodào.
+	-
+		lSentences:
+		-
+			en: After the mother sheep came back from the forest, she couldn't find her children.
+			zh: 羊妈妈从森林里回来后, 找不到它的孩子们.
+			pinyin: Yáng māmā cóng sēnlín lǐ huílái hòu, zhǎo bù dào tā de háizimen.
+		-
+			en: She cried sadly.
+			zh: 它伤心地哭喊着.
+			pinyin: Tā shāngxīn dì kū hǎnzhe.
+	-
+		lSentences:
+		-
+			en: The surviving lamb heard its mother's voice.
+			zh: 那只幸存的小羊听到妈妈的声音.
+			pinyin: Nà zhǐ xìngcún de xiǎo yáng tīng dào māmā de shēngyīn.
+		-
+			en: He told the mother sheep what had happened.
+			zh: 它告诉了羊妈妈发生的事情.
+			pinyin: Tā gàosùle yáng māmā fāshēng de shìqíng.
+	-
+		lSentences:
+		-
+			en: The mother sheep said: "The big gray wolf is full, and he can't go far."
+			zh: 羊妈妈说: "大灰狼吃饱了, 肯定走不远".
+			pinyin: Yáng māmā shuō: "Dà huī láng chī bǎole, kěndìng zǒu bù yuǎn".
+		-
+			en: They looked around.
+			zh: 它们四处寻找.
+			pinyin: Tāmen sìchù xúnzhǎo.
+		-
+			en: Finally they found the big gray wolf sleeping under a big tree.
+			zh: 最后发现大灰狼正躺在一棵大树下睡觉.
+			pinyin: Zuìhòu fāxiàn dà huī láng zhèng tǎng zài yī kē dà shù xià shuìjiào.
+	-
+		lSentences:
+		-
+			en: Mother Sheep went home and brought back scissors and a sewing box.
+			zh: 羊妈妈回家拿来剪刀和针线盒.
+			pinyin: Yáng māmā huí jiā ná lái jiǎndāo hé zhēnxiàn hé.
+		-
+			en: She cut open the big gray wolf's belly, and six lambs came out.
+			zh: 它把大灰狼的肚皮煎开, 就出了六只小羊.
+			pinyin: Tā bǎ dà huī láng de dùpí jiān kāi, jiù chūle liù zhǐ xiǎo yáng.
+	-
+		lSentences:
+		-
+			en: The mother sheep let the seven lambs bring many big rocks and stuff them into the belly of the big gray wolf.
+			zh: 羊妈妈让七只小羊搬来许多大石头, 塞进大灰狼的肚子里.
+			pinyin: Yáng māmā ràng qī zhǐ xiǎo yáng bān lái xǔduō dà shítou, sāi jìn dà huī láng de dùzi lǐ.
+		-
+			en: While the wolf was still sleeping, the mother sheep quickly sewed its belly.
+			zh: 趁狼还在睡觉, 羊妈妈飞快地把它的肚皮缝了起来.
+			pinyin: Chèn láng hái zài shuìjiào, yáng māmā fēikuài dì bǎ tā de dùpí fèngle qǐlái.
+	-
+		lSentences:
+		-
+			en: The big gray wolf woke up, feeling very thirsty.
+			zh: 大灰狼醒了, 觉得口很渴.
+			pinyin: Dà huī láng xǐngle, juédé kǒu hěn kě.
+		-
+			en: He went to the well with difficulty.
+			zh: 它好不容易走到井边.
+			pinyin: Tā hǎobù róngyì zǒu dào jǐng biān.
+		-
+			en: He leaned over to drink water, and fell into the well.
+			zh: 它俯下身子喝水, 结果掉进了井里.
+			pinyin: Tā fǔ xià shēnzi hē shuǐ, jiéguǒ diào jìnle jǐng lǐ.
+	-
+		lSentences:
+		-
+			en: The stones in the belly of the big gray wolf were too heavy.
+			zh: 大灰狼肚子里的石头太重了.
+			pinyin: Dà huī láng dùzi lǐ de shítou tài zhòngle.
+		-
+			en: He couldn't climb back up.
+			zh: 它怎么也爬不上来.
+			pinyin: Tā zěnme yě pá bù shànglái.
+		-
+			en: He finally drowned.
+			zh: 它最后淹死了.
+			pinyin: Tā zuìhòu yān sǐle.
+		-
+			en: The mother sheep and the lambs danced happily.
+			zh: 羊妈妈和小羊们高兴地跳起了舞.
+			pinyin: Yáng māmā hé xiǎo yángmen gāoxìng de tiào qǐle wǔ.
