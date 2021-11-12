@@ -122,10 +122,80 @@ lParagraphs:
 	-
 		lSentences:
 		-
-			en: xxxxx
-			zh: xxxxx.
-			pinyin: xxxxx
+			en: The prince told the king that he would marry the owner of the crystal shoe.
+			zh: 王子告诉国王, 他要娶水晶鞋的主人为妻..
+			pinyin: Wángzǐ gàosù guówáng, tā yào qǔ shuǐjīng xié de zhǔrén wéi qī.
 		-
-			en: xxxxx
-			zh: xxxxx.
-			pinyin: xxxxx
+			en: The next day, the minister took the delicate crystal shoe to find the girl who could wear it.
+			zh: 第二天, 大臣拿着那只精致的水晶鞋去寻找那个能穿上的女孩..
+			pinyin: Dì èr tiān, dàchén názhe nà zhǐ jīngzhì de shuǐjīng xié qù xúnzhǎo nàgè néng chuān shàng de nǚhái.
+	-
+		lSentences:
+		-
+			en: The big toe of the stepmother's oldest daughter was too long.
+			zh: 继母的大女儿的大脚趾太长..
+			pinyin: Jìmǔ de dà nǚ'ér de dà jiǎozhǐ tài zhǎng.
+		-
+			en: The mother cut off her big toe and put the crystal shoes on her.
+			zh: 母亲帮她切掉了大脚趾, 穿上了水晶鞋..
+			pinyin: Mǔqīn bāng tā qiè diàole dà jiǎozhǐ, chuān shàngle shuǐjīng xié.
+		-
+			en: The prince took her away as his fiancée.
+			zh: 王子便把她当作未婚妻带走了..
+			pinyin: Wángzǐ biàn bǎ tā dàng zuò wèihūnqī dài zǒule.
+	-
+		lSentences:
+		-
+			en: On the way, the little bird warned the prince.
+			zh: 路上, 小鸟警告了王子..
+			pinyin: Lùshàng, xiǎo niǎo jǐnggàole wángzǐ.
+		-
+			en: So the prince returned to Cinderella's house.
+			zh: 于是王子回到了灰姑娘家...
+			pinyin: Yúshì wángzǐ huí dàole huī gūniáng jiā.
+	-
+		lSentences:
+		-
+			en: The stepmother's younger daughter's feet were too big.
+			zh: 继母的小女儿的脚太大..
+			pinyin: Jìmǔ de xiǎo nǚ'ér de jiǎo tài dà.
+		-
+			en: Her mother helped her cut off her heel and put on the crystal shoe.
+			zh: 母亲帮她削掉了脚后跟, 穿上了水晶鞋..
+			pinyin: Mǔqīn bāng tā xuē diàole jiǎohòugēn, chuān shàngle shuǐjīng xié.
+		-
+			en: The prince took her away as his fiancée.
+			zh: 王子把她当作未婚妻带走了.
+			pinyin: Wángzǐ bǎ tā dàng zuò wèihūnqī dài zǒule.
+	-
+		lSentences:
+		-
+			en: The lie was exposed by the bird again.
+			zh: 谎言再次被小鸟揭穿了..
+			pinyin: Huǎngyán zàicì bèi xiǎo niǎo jiēchuānle.
+		-
+			en: The prince returned to Cinderella's house.
+			zh: 王子又回到了灰姑娘的家..
+			pinyin: Wángzǐ yòu huí dàole huī gūniáng de jiā.
+		-
+			en: Cinderella's father had to tell Cinderella to come out.
+			zh: 灰姑娘的父亲只好叫灰姑娘出来..
+			pinyin: Huī gūniáng de fùqīn zhǐhǎo jiào huī gūniáng chūlái.
+	-
+		lSentences:
+		-
+			en: Cinderella tried on the crystal shoes, and they fit.
+			zh: 灰姑娘试了试水晶鞋, 结果非常合适..
+			pinyin: Huī gūniáng shìle shì shuǐjīng xié, jiéguǒ fēicháng héshì.
+		-
+			en: She took out another crystal shoe from her pocket and put it on.
+			zh: 她从口袋里拿出了另一只水晶鞋穿上..
+			pinyin: Tā cóng kǒudài lǐ ná chūle lìng yī zhǐ shuǐjīng xié chuān shàng.
+		-
+			en: The prince and Cinderella got married.
+			zh: 王子和灰姑娘结婚了..
+			pinyin: Wángzǐ hé huī gūniáng jiéhūnle.
+		-
+			en: They lived happily ever after.
+			zh: 他们过着快乐的生活..
+			pinyin: Tāmenguòzhe kuàilè de shēnghuó.

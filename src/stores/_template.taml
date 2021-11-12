@@ -1,0 +1,19 @@
+---
+title:
+	en: Title
+	zh: Title
+	pinyin: Title
+author:
+	en: Author
+lCharacters:
+	-
+		en: Character
+		zh: Character
+		pinyin: Character
+lParagraphs:
+	-
+		lSentences:
+		-
+			en: xxxxx
+			zh: xxxxx
+			pinyin: xxxxx
