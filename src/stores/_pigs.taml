@@ -1,0 +1,157 @@
+---
+title:
+	en: Three Little Pigs
+	zh: 三只小猪
+	pinyin: Sān zhī xiǎo zhū
+author:
+	en: James Orchard Halliwell
+lCharacters:
+	-
+		en: The oldest pig
+		zh: 猪老大
+		pinyin: Zhū lǎodà
+	-
+		en: The second little pig
+		zh: 第二只小猪
+		pinyin: Dì èr zhǐ xiǎo zhū
+	-
+		en: The third little pig
+		zh: 第三只小猪
+		pinyin: Dì sān zhī xiǎo zhū
+lParagraphs:
+	-
+		lSentences:
+		-
+			en: Once upon a time, there were three little pigs.
+			zh: 从前, 有三只小猪.
+			pinyin: Cóngqián, yǒusān zhī xiǎo zhū.
+		-
+			en: They wanted to build their own houses.
+			zh: 它们想要盖自己的房子.
+			pinyin: Tāmen xiǎng yào gài zìjǐ de fángzi.
+	-
+		lSentences:
+		-
+			en: The first little pig built his house with straw, but it was not especially strong.
+			zh: 第一只小猪用稻草建了自己的房子, 但不是特别结实.
+			pinyin: Dì yī zhǐ xiǎo zhū yòng dàocǎo jiànle zìjǐ de fángzi, dàn bùshì tèbié jiēshi.
+	-
+		lSentences:
+		-
+			en: The second little pig built a wooden house, but this house also was not very strong.
+			zh: 第二只小猪建了一个木房子, 但这个房子也不是很结实.
+			pinyin: Dì èr zhǐ xiǎo zhū jiànle yīgè mù fángzi, dàn zhège fángzi yě bùshì hěn jiēshi.
+	-
+		lSentences:
+		-
+			en: The third little pig built a house with bricks, it was very strong.
+			zh: 第三只小猪用砖头建了一栋房子, 非常结实.
+			pinyin: Dì sān zhī xiǎo zhū yòng zhuāntóu jiànle yī dòng fángzi, fēicháng jiēshi.
+	-
+		lSentences:
+		-
+			en: The three little pigs went home happily and told their mother that the houses were built.
+			zh: 三只小猪高高兴兴地回家告诉妈妈房子盖好了.
+			pinyin: Sān zhī xiǎo zhū gāo gāoxìng xìng de huí jiā gàosù māmā fángzi gài hǎole.
+		-
+			en: On the way back to their house, they were spotted by a wolf.
+			zh: 在返回自己房子的路上, 它们被一只狼盯上了.
+			pinyin: Zài fǎnhuí zìjǐ fángzi de lùshàng, tāmen bèi yī zhǐ láng dīng shàngle.
+	-
+		lSentences:
+		-
+			en: The big gray wolf came to the front of the first little pig's house.
+			zh: 大灰狼来到第一只小猪的房子前.
+			pinyin: Dà huī láng lái dào dì yī zhǐ xiǎo zhū de fángzi qián.
+		-
+			en: He easily blew down the straw house.
+			zh: 很轻易就吹垮了草房子.
+			pinyin: Hěn qīngyì jiù chuī kuǎle cǎo fángzi.
+		-
+			en: The oldest pig hurried to the house of the second pig.
+			zh: 猪老大赶紧往猪老二家跑.
+			pinyin: Zhū lǎodà gǎnjǐn wǎng zhū lǎo èr jiā pǎo.
+	-
+		lSentences:
+		-
+			en: The big gray wolf hit the cabin of the second little pig.
+			zh: 大灰狼撞向第二只小猪的小木屋.
+			pinyin: Dà huī láng zhuàng xiàng dì èr zhǐ xiǎo zhū de xiǎo mùwū.
+		-
+			en: The cabin was knocked down at once.
+			zh: 小木屋一下被撞倒了.
+			pinyin: Xiǎo mùwū yīxià bèi zhuàng dǎo le.
+		-
+			en: The two little pigs escaped into the third little pig's stone house.
+			zh: 两只小猪逃进猪老三的石头房子里.
+			pinyin: Liǎng zhī xiǎo zhū táo jìn zhū lǎo sān de shítou fángzi lǐ.
+	-
+		lSentences:
+		-
+			en: The big gray wolf came to the front of the third little pig's stone house.
+			zh: 大灰狼来到第三只小猪的石头房子前.
+			pinyin: Dà huī láng lái dào dì sān zhī xiǎo zhū de shítou fángzi qián.
+		-
+			en: He slammed into the brick wall hard and hurt his head.
+			zh: 它用力撞向砖墙, 头被撞破了.
+			pinyin: Tā yònglì zhuàng xiàng zhuān qiáng, tóu bèi zhuàng pòle.
+	-
+		lSentences:
+		-
+			en: The big bad wolf was very angry.
+			zh: 大灰狼很生气.
+			pinyin: Dà huī láng hěn shēngqì.
+		-
+			en: He continued to hit the wall again.
+			zh: 它又继续撞墙.
+			pinyin: Tā yòu jìxù zhuàngqiáng.
+		-
+			en: But he shook loose a stone on the roof and it hit him.
+			zh: 却把房顶上的石头震了下来, 砸到了自己.
+			pinyin: Què bǎ fáng dǐng shàng de shítou zhènle xiàlái, zá dàole zìjǐ.
+	-
+		lSentences:
+		-
+			en: The big gray wolf had to leave.
+			zh: 大灰狼只好离开了.
+			pinyin: Dà huī láng zhǐhǎo líkāile.
+	-
+		lSentences:
+		-
+			en: Before long, the big gray wolf came back.
+			zh: 过了不久, 大灰狼又回来了.
+			pinyin: Guò le bùjiǔ, dà huī láng yòu huíláile.
+		-
+			en: It yelled: "I'm going to come in through the chimney and eat you all!"
+			zh: 它大叫道: "我要从烟囱里进来, 把你们都吃掉!"
+			pinyin: Tā dà jiào dào: "Wǒ yào cóng yāncōng lǐ jìnlái, bǎ nǐmen dōu chī diào!"
+	-
+		lSentences:
+		-
+			en: The little pigs started a fire.
+			zh: 小猪们生起炉火.
+			pinyin: Xiǎo zhūmen shēngqǐ lú huǒ.
+		-
+			en: When the big gray wolf crawled in through the chimney, it fell into the fire.
+			zh: 当大灰狼从烟囱里爬进来时, 掉进了炉火里.
+			pinyin: Dāng dà huī láng cóng yāncōng lǐ pá jìnlái shí, diào jìnle lú huǒ lǐ.
+	-
+		lSentences:
+		-
+			en: The wolf was burned by the fire and ran away quickly.
+			zh: 大灰狼被火烧伤了, 赶紧逃走了.
+			pinyin: Dà huī láng bèi huǒ shāoshāngle, gǎnjǐn táozǒule.
+		-
+			en: The three little pigs never saw him again.
+			zh: 三只小猪从此再没见到它.
+			pinyin: Sān zhī xiǎo zhū cóngcǐ zài méi jiàn dào tā.
+	-
+		lSentences:
+		-
+			en: Since then, the oldest pig and the second pig changed their bad habit of laziness.
+			zh: 从此以后, 猪老大和猪老二改掉了懒惰的坏习惯.
+			pinyin: Cóngcǐ yǐhòu, zhū lǎodà hé zhū lǎo èr gǎi diàole lǎnduò de huài xíguàn.
+		-
+			en: The three little pigs lived happily together.
+			zh: 三只小猪幸福地生活在一起.
+			pinyin: Sān zhī xiǎo zhū xìngfú dì shēnghuó zài yīqǐ.
