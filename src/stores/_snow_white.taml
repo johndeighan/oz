@@ -124,6 +124,44 @@ lParagraphs:
 	-
 		lSentences:
 		-
+			en: The queen handed the poisonous apple to Snow White.
+			zh: 王后把有毒的苹果递给白雪公主.
+			pinyin: Wánghòu bǎ yǒudú dí píngguǒ dì gěi báixuě gōngzhǔ
+		-
+			en: She bit the apple and died of poison.
+			zh: 她咬了一口苹果就中毒死去了.
+			pinyin: Tā yǎole yīkǒu píngguǒ jiù zhòngdú sǐqùle.
+	-
+		lSentences:
+		-
+			en: The dwarfs came back and could not save Snow White.
+			zh: 小矮人们回来没救活白雪公主.
+			pinyin: Xiǎo ǎi rénmen huílái méi jiù huó báixuě gōngzhǔ.
+		-
+			en: They sadly put Snow White in a crystal coffin.
+			zh: 他们伤心地把白雪公主放在一个水晶棺材里.
+			pinyin: Tāmen shāngxīn dì bǎ báixuě gōngzhǔ fàng zài yīgè shuǐjīng guāncai lǐ.
+		-
+			en: A prince passed by here.
+			zh: 一位王子路过这里.
+			pinyin: Yī wèi wángzǐ lùguò zhèlǐ.
+		-
+			en: He was fascinated by Snow White.
+			zh: 他被白雪公主迷住了.
+			pinyin: Tā bèi báixuě gōngzhǔ mí zhùle.
+	-
+		lSentences:
+		-
+			en: The prince asked the attendants to carry the crystal coffin back to the palace.
+			zh: 王子让侍从们抬着水晶棺回王宫.
+			pinyin: Wángzǐ ràng shìcóngmen táizhe shuǐjīng guān huí wánggōng.
+		-
+			en: On the way, the poisonous apple was shaken out of Snow White's throat, and she came back to life.
+			zh: 路上, 毒苹果从白雪公主的喉咙里被震了出来, 她活了过来.
+			pinyin: Lùshàng, dú píngguǒ cóng báixuě gōngzhǔ de hóulóng lǐ bèi zhènle chūlái, tā huóle guòlái.
+	-
+		lSentences:
+		-
 			en: xxxxx
 			zh: xxxxx
 			pinyin: xxxxx
