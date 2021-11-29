@@ -162,10 +162,32 @@ lParagraphs:
 	-
 		lSentences:
 		-
-			en: xxxxx
-			zh: xxxxx
-			pinyin: xxxxx
+			en: The prince proposed to Snow White.
+			zh: 王子向白雪公主求婚.
+			pinyin: Wángzǐ xiàng báixuě gōngzhǔ qiúhūn.
 		-
-			en: xxxxx
-			zh: xxxxx
-			pinyin: xxxxx
+			en: Snow White agreed.
+			zh: 白雪公主答应了.
+			pinyin: Báixuě gōngzhǔ dāyìngle.
+		-
+			en: The queen learned that the bride of the neighboring prince was the most beautiful.
+			zh: 王后得知邻国王子的新娘最美丽.
+			pinyin: Wánghòu dé zhī lín guó wángzǐ de xīnniáng zuì měilì.
+		-
+			en: So, she planned to go and see.
+			zh: 她于是打算去看看.
+			pinyin: Tā yúshì dǎsuàn qù kàn kàn.
+	-
+		lSentences:
+		-
+			en: The queen discovered that the bride turned out to be Snow White.
+			zh: 王后发现新娘竟然是白雪公主.
+			pinyin: Wánghòu fāxiàn xīnniáng jìngrán shì báixuě gōngzhǔ.
+		-
+			en: she was so angry that she died.
+			zh: 她气得死了.
+			pinyin: Tā qì dé sǐle.
+		-
+			en: Since then, Snow White and the prince have lived happily together.
+			zh: 从此, 白雪公主和王子幸福地生活在一起.
+			pinyin: Cóngcǐ, báixuě gōngzhǔ hé wángzǐ xìngfú dì shēnghuó zài yīqǐ.
