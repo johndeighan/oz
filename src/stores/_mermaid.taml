@@ -1,23 +1,173 @@
 ---
 title:
 	en: The Little Mermaid
-	zh: 海的女儿
-	pinyin: Hǎi de nǚ'ér
+	zh: 小人鱼公主
+	pinyin: Xiǎo rényú gōngzhǔ
 author:
 	en: Hans Christian Andersen
 lCharacters:
 	-
 		en: The Little Mermaid
-		zh: 海的女儿
-		pinyin: Hǎi de nǚ'ér
+		zh: 小人鱼公主
+		pinyin: Xiǎo rényú gōngzhǔ
 lParagraphs:
 	-
 		lSentences:
 		-
-			en: xxxxx
-			zh: xxxxx
-			pinyin: xxxxx
+			en: In the Deep Sea Palace, there lived a mermaid princess.
+			zh: 在深海皇宫, 住着一个美人鱼公主.
+			pinyin: Zài shēnhǎi huánggōng, zhùzhe yīgè měirényú gōngzhǔ.
 		-
-			en: xxxxx
-			zh: xxxxx
-			pinyin: xxxxx
+			en: She wanted to go to the outside world.
+			zh: 她想去外面的世界.
+			pinyin: Tā xiǎng qù wàimiàn de shìjiè.
+		-
+			en: The old grandmother told her: "A mermaid is allowed to swim to the surface of the sea when she is fifteen."
+			zh: 老祖母告诉她: "美人鱼到了十五岁时才被允许游到海面上."
+			pinyin: Lǎo zǔmǔ gàosù tā: "Měirényú dàole shíwǔ suì shí cái bèi yǔnxǔ yóu dào hǎimiàn shàng."
+	-
+		lSentences:
+		-
+			en: The little mermaid floated to the surface on her fifteenth birthday.
+			zh: 小人鱼公主十五岁生日时浮上了海面.
+			pinyin: Xiǎo rényú gōngzhǔ shíwǔ suì shēngrì shí fúshàngle hǎimiàn.
+		-
+			en: The little mermaid saw a big ship, and a handsome prince was standing on the ship.
+			zh: 小人鱼公主看到了一只大船, 一个英俊的王子在船上站着.
+			pinyin: Xiǎo rényú gōngzhǔ kàn dàole yī zhǐ dàchuán, yīgè yīngjùn de wángzǐ zài chuánshàng zhànzhe.
+	-
+		lSentences:
+		-
+			en: The little mermaid fell in love with the prince at first sight.
+			zh: 小人鱼公主对王子一见钟情.
+			pinyin: Xiǎo rényú gōngzhǔ duì wángzǐ yījiànzhōngqíng.
+	-
+		lSentences:
+		-
+			en: The ship sank due to being struck by thunder and lightning.
+			zh: 由于被雷电击中, 大船沉没了.
+			pinyin: Yóuyú bèi léi diànjí zhōng, dàchuán chénmòle.
+		-
+			en: The prince fell deep into the sea.
+			zh: 王子掉进了大海深处.
+			pinyin: Wángzǐ diào jìnle dàhǎi shēn chù.
+		-
+			en: The little mermaid rescued the prince and put him on the beach.
+			zh: 小人鱼公主救起了王子, 把他放在沙滩上.
+			pinyin: Xiǎo rényú gōngzhǔ jiù qǐle wángzǐ, bǎ tā fàng zài shātān shàng.
+	-
+		lSentences:
+		-
+			en: The little mermaid took care of the prince all night long.
+			zh: 小人鱼公主照顾王子一整夜.
+			pinyin: Xiǎo rényú gōngzhǔ zhàogù wángzǐ yī zhěng yè.
+		-
+			en: When he opened his eyes, the little mermaid hid.
+			zh: 当他睁开眼, 小人鱼公主躲藏起来.
+			pinyin: Dāng tā zhēng kāi yǎn, xiǎo rényú gōngzhǔ duǒcáng qǐlái.
+		-
+			en: At this moment, a princess from a neighboring island came to see the sea.
+			zh: 就在这时, 一个邻岛的公主来看海.
+			pinyin: Jiù zài zhè shí, yīgè lín dǎo de gōngzhǔ lái kàn hǎi.
+		-
+			en: She found the prince.
+			zh: 她发现了王子.
+			pinyin: Tā fāxiànle wángzǐ.
+		-
+			en: The prince thanked the princess for saving him.
+			zh: 王子感谢公主救了他.
+			pinyin: Wángzǐ gǎnxiè gōngzhǔ jiùle tā.
+	-
+		lSentences:
+		-
+			en: The little mermaid wanted to become a human.
+			zh: 小人鱼公主想变成人.
+			pinyin: Xiǎo rényú gōngzhǔ xiǎng biàn chéng rén.
+		-
+			en: The sea witch said to her: "I will turn you into a human, but you must give me your beautiful voice.
+			zh: 海巫婆对她说: "我会把你变成人, 但你必须给我你的美丽的声音.
+			pinyin: Hǎi wūpó duì tā shuō: "Wǒ huì bǎ nǐ biàn chéng rén, dàn nǐ bìxū gěi wǒ nǐ dì měilì de shēngyīn.
+		-
+			en: "If the prince marries someone else, you will become a water bubble."
+			zh: "如果王子娶了别人, 你将成为水泡."
+			pinyin: "Rúguǒ wángzǐ qǔle biérén, nǐ jiāng chéngwéi shuǐpào."
+	-
+		lSentences:
+		-
+			en: On the beach, the little mermaid drank the medicine the sea witch gave her.
+			zh: 在沙滩上, 小人鱼公主喝了海巫婆给她的药.
+			pinyin: Zài shātān shàng, xiǎo rényú gōngzhǔ hēle hǎi wūpó gěi tā di yào.
+		-
+			en: With a sudden pain, she became a human being.
+			zh: 随着突然而来的疼痛, 她变成了人类.
+			pinyin: Suízhe túrán ér lái de téngtòng, tā biàn chéngle rénlèi.
+	-
+		lSentences:
+		-
+			en: At this moment, the prince came to the beach and saw the little mermaid.
+			zh: 就在这时, 王子来到海边, 见到了小人鱼公主.
+			pinyin: Jiù zài zhè shí, wángzǐ lái dào hǎibiān, jiàn dàole xiǎo rényú gōngzhǔ.
+		-
+			en: He brought the little mermaid back to his palace.
+			zh: 他将小人鱼公主带回自己的宫殿.
+			pinyin: Tā jiāng xiǎo rényú gōngzhǔ dài huí zìjǐ de gōngdiàn.
+		-
+			en: The prince likeed to stay with her very much.
+			zh: 王子很喜欢和她待在一起.
+			pinyin: Wángzǐ hěn xǐhuān hé tā dài zài yīqǐ.
+	-
+		lSentences:
+		-
+			en: Every time the little mermaid took a step, her foot hurt like stepping on the tip of a knife.
+			zh: 小人鱼公主每走一步, 脚就像踩在刀尖上一样疼.
+			pinyin: Xiǎo rényú gōngzhǔ měi zǒu yībù, jiǎo jiù xiàng cǎi zài dāo jiān shàng yīyàng téng.
+	-
+		lSentences:
+		-
+			en: One day, the prince told the little mermaid that he was going to marry the girl who saved him.
+			zh: 一天, 王子告诉小人鱼公主他将要和救他的那位姑娘结婚了.
+			pinyin: Yītiān, wángzǐ gàosù xiǎo rényú gōngzhǔ tā jiāngyào hé jiù tā dì nà wèi gūniáng jiéhūnle.
+	-
+		lSentences:
+		-
+			en: The little mermaid couldn't tell the prince the truth.
+			zh: 小人鱼公主不能告诉王子真相.
+			pinyin: Xiǎo rényú gōngzhǔ bùnéng gàosù wángzǐ zhēnxiàng.
+		-
+			en: She felt her heart was breaking.
+			zh: 她觉得自己的心都要碎了.
+			pinyin: Tā juédé zìjǐ de xīn dōu yào suìle.
+	-
+		lSentences:
+		-
+			en: At night, the little mermaid's sisters floated to the surface.
+			zh: 晚上, 小人鱼公主的姐姐们浮到海面上.
+			pinyin: Wǎnshàng, xiǎo rényú gōngzhǔ de jiějiěmen fú dào hǎimiàn shàng.
+		-
+			en: They gave the little mermaid a knife.
+			zh: 她们给小人鱼公主一把刀.
+			pinyin: Tāmen gěi xiǎo rényú gōngzhǔ yī bǎ dāo.
+		-
+			en: They said, "If you stab the prince to death with this knife, you will become a mermaid.
+			zh: 她们说: "如果你用这把刀刺死王子, 你就变回美人鱼了.
+			pinyin: Tāmen shuō: "Rúguǒ nǐ yòng zhè bǎ dāo cì sǐ wángzǐ, nǐ jiù biàn huí měirényúle.
+		-
+			en: If you don't do this, you will become a water bubble.
+			zh: 如果你不这样做, 你将成为一个水泡.
+			pinyin: Rúguǒ nǐ bù zhèyàng zuò, nǐ jiāng chéngwéi yīgè shuǐpào.
+	-
+		lSentences:
+		-
+			en: The little mermaid came to the prince's room, but she couldn't bear to do it.
+			zh: 小人鱼公主来到王子的房间, 可她不忍心下手.
+			pinyin: Xiǎo rényú gōngzhǔ lái dào wángzǐ de fángjiān, kě tā bù rěnxīn xiàshǒu.
+		-
+			en: So the little mermaid threw away the knife and jumped into the sea.
+			zh: 于是小人鱼公主扔掉了刀, 跳入了大海.
+			pinyin: Yúshì xiǎo rényú gōngzhǔ rēng diàole dāo, tiào rùle dàhǎi.
+	-
+		lSentences:
+		-
+			en: The little mermaid felt her body melt into bubbles and ascend to heaven.
+			zh: 小人鱼公主觉得自己的身躯融化为泡沫, 升上了天国
+			pinyin: Xiǎo rényú gōngzhǔ juédé zìjǐ de shēnqū rónghuà wéi pàomò, shēng shàngle tiānguó
