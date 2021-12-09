@@ -142,10 +142,64 @@ lParagraphs:
 	-
 		lSentences:
 		-
-			en: xxxxx
-			zh: xxxxx
-			pinyin: xxxxx
+			en: The maid discovered the robbers hidden in earthen jars.
+			zh: 女仆发现了藏在坛子里的强盗.
+			pinyin: Nǚpū fāxiànle cáng zài tánzi lǐ de qiángdào.
 		-
-			en: xxxxx
-			zh: xxxxx
-			pinyin: xxxxx
+			en: She killed them all with hot oil.
+			zh: 她用滚烫的油把他们全都烫死了.
+			pinyin: Tā yòng gǔntàng de yóu bǎ tāmen quándōu tàng sǐle.
+	-
+		lSentences:
+		-
+			en: The bandit leader wanted to avenge his companions.
+			zh: 强盗头子为了给同伴报仇.
+			pinyin: Qiángdào tóuzi wèile gěi tóngbàn bàochóu.
+		-
+			en: Pretending to be a businessman again, he tried every means to make friends with Alibaba's nephew.
+			zh: 又假扮成商人, 想方设法和阿里巴巴的侄子交上了朋友.
+			pinyin: Yòu jiǎbàn chéng shāngrén, xiǎngfāngshèfǎ hé ālǐ bābā de zhí zǐ jiāo shàngle péngyǒu.
+	-
+		lSentences:
+		-
+			en: One day, Alibaba invited the businessman to his home as a guest, thanking him for treating his nephew so kindly.
+			zh: 一天, 阿里巴巴邀请这位商人到他家做客, 感谢他那么善待他侄子.
+			pinyin: Yītiān, ālǐ bābā yāoqǐng zhè wèi shāngrén dào tā jiā zuòkè, gǎnxiè tā nàme shàndài tā zhízi.
+		-
+			en: The maid recognized the bandit leader.
+			zh: 女仆认出了强盗头子.
+			pinyin: Nǚpū rèn chūle qiángdào tóuzi.
+	-
+		lSentences:
+		-
+			en: After dinner, the maid dressed up as a dancer to dance for the guests and hid a dagger around her waist.
+			zh: 晚餐后, 女仆扮成舞者给客人跳舞助兴, 并在腰间藏了一把匕首.
+			pinyin: Wǎncān hòu, nǚpū bàn chéng wǔ zhě gěi kèrén tiàowǔ zhùxìng, bìng zài yāo jiān cángle yī bǎ bǐshǒu.
+	-
+		lSentences:
+		-
+			en: The maid danced charmingly. When she came to the merchant, she suddenly pulled out a dagger and killed him.
+			zh: 女仆舞姿迷人, 当她来到商人面前时, 突然抽出匕首杀了他.
+			pinyin: Nǚpū wǔzī mírén, dāng tā lái dào shāngrén miànqián shí, túrán chōuchū bǐshǒu shāle tā.
+		-
+			en: Everyone was stunned.
+			zh: 大家都惊呆了.
+			pinyin: Dàjiā dōu jīng dāile.
+		-
+			en: So the maid revealed the true face of the bandit leader.
+			zh: 于是女仆揭开了强盗头子的真面目.
+			pinyin: Yúshì nǚpū jiē kāile qiángdào tóuzi de zhēnmiànmù.
+	-
+		lSentences:
+		-
+			en: Alibaba was grateful to the maid.
+			zh: 阿里巴巴很感激女仆.
+			pinyin: Ālǐ bābā hěn gǎnjī nǚpū.
+		-
+			en: He married her to his nephew.
+			zh: 他把她嫁给了自己的侄子.
+			pinyin: Tā bǎ tā jià gěile zìjǐ de zhízi.
+		-
+			en: Since then, they have lived a happy life together.
+			zh: 从此, 他们一起过着幸福的生活.
+			pinyin: Cóngcǐ, tāmen yīqǐguòzhe xìngfú de shēnghuó.
