@@ -7,10 +7,150 @@ author:
 	en: Gabrielle-Suzanne Barbot de Villeneuve
 lCharacters:
 	-
-		en: Character
-		zh: Character
-		pinyin: Character
+		en: Beauty
+		zh: 美女
+		pinyin: Měinǚ
 lParagraphs:
+	-
+		lSentences:
+		-
+			en: There was a businessman and his three daughters living in a big house.
+			zh: 有一位商人和他的三个女儿住在一幢大房子里.
+			pinyin: Yǒuyī wèi shāngrén hé tā de sān gè nǚ'ér zhù zài yī chuáng dà fángzi lǐ.
+		-
+			en: His youngest daughter was very beautiful, and people called her Beauty.
+			zh: 他的小女儿很美丽, 人们都称她美女.
+			pinyin: Tā de xiǎo nǚ'ér hěn měilì, rénmen dōu chēng tā měinǚ.
+		-
+			en: One day, the businessman planned to enter the city.
+			zh: 一天, 商人打算进城.
+			pinyin: Yītiān, shāngrén dǎsuàn jìn chéng.
+		-
+			en: The two sisters wanted clothes and jewelry, but Beauty said: "I only want a rose."
+			zh: 两位姐姐要衣服和首饰, 但美女说: "我只想要一支玫瑰花."
+			pinyin: Liǎng wèi jiějiě yào yīfú hé shǒushì, dàn měinǚ shuō: "Wǒ zhǐ xiǎng yào yī zhī méiguī huā."
+	-
+		lSentences:
+		-
+			en: However, when returning home at night, the businessman got lost.
+			zh: 可是, 夜晚回家时, 商人迷路了.
+			pinyin: Kěshì, yèwǎn huí jiā shí, shāngrén mílùle.
+		-
+			en: Just as he was disappointed and discouraged, he saw a light ahead.
+			zh: 正当他失望泄气的时候, 他看到前方有灯光.
+			pinyin: Zhèngdàng tā shīwàng xièqì de shíhòu, tā kàn dào qiánfāng yǒu dēngguāng.
+		-
+			en: When he rode forward, he found a magnificent palace.
+			zh: 当他骑马上前时, 发现了一座富丽堂皇的宫殿.
+			pinyin: Dāng tā qímǎ shàng qián shí, fāxiànle yīzuò fùlì tánghuáng de gōngdiàn.
+	-
+		lSentences:
+		-
+			en: It looked like the palace was abandoned.
+			zh: 看起来宫殿是被废弃的.
+			pinyin: Kàn qǐlái gōngdiàn shì bèi fèiqì de.
+		-
+			en: But the table was full of food.
+			zh: 但是桌上摆满了食物.
+			pinyin: Dànshì zhuō shàng bǎi mǎnle shíwù.
+		-
+			en: After the businessman had dinner, he went upstairs to the bedroom to rest.
+			zh: 商人吃过晚餐后, 上楼来到一间卧室休息.
+			pinyin: Shāngrén chīguò wǎncān hòu, shàng lóu lái dào yī jiàn wòshì xiūxí.
+	-
+		lSentences:
+		-
+			en: The next morning, as he was about to leave, he saw rose bushes.
+			zh: 第二天早晨, 正当他准备离开时, 看到了玫瑰花丛.
+			pinyin: Dì èr tiān zǎochén, zhèngdàng tā zhǔnbèi líkāi shí, kàn dàole méiguī huācóng.
+		-
+			en: He remembered Beauty's request, so he plucked a rose from the bush.
+			zh: 他想起了美女的请求, 于是从花丛中摘下一朵玫瑰花.
+			pinyin: Tā xiǎngqǐle měinǚ de qǐngqiú, yúshì cóng huācóng zhōng zhāi xià yī duǒ méiguī huā.
+		-
+			en: Suddenly, a beast appeared.
+			zh: 突然, 一只野兽出现了.
+			pinyin: Túrán, yī zhǐ yěshòu chūxiànle.
+	-
+		lSentences:
+		-
+			en: "You ate my food, slept in my guest room, and stole my flowers."
+			zh: "你吃了我的食物, 在我的客房里睡觉, 还偷走我的花."
+			pinyin: "Nǐ chīle wǒ de shíwù, zài wǒ de kèfáng lǐ shuìjiào, hái tōu zǒu wǒ de huā."
+		-
+			en: "You should die for this."
+			zh: "你应该为此去死."
+			pinyin: "Nǐ yīnggāi wèi cǐ qù sǐ."
+		-
+			en: The businessman begged the beast to spare his life.
+			zh: 商人祈求野兽饶他一命.
+			pinyin: Shāngrén qíqiú yěshòu ráo tā yī mìng.
+		-
+			en: The beast said: "If one of your daughters is willing to come and die for you, I will let you to survive."
+			zh: 野兽说: "如果你的一个女儿肯来为你受死, 我将留条活路给你."
+			pinyin: Yěshòu shuō: "Rúguǒ nǐ de yīgè nǚ'ér kěn lái wèi nǐ shòu sǐ, wǒ jiāng liú tiáo huólù gěi nǐ."
+	-
+		lSentences:
+		-
+			en: The businessman hit the road.
+			zh: 商人上路了.
+			pinyin: Shāngrén shànglùle.
+		-
+			en: He returned home, and the children listened to his story very sadly.
+			zh: 他回到家里, 孩子们很伤心地听了他的故事.
+			pinyin: Tā huí dào jiālǐ, háizimen hěn shāngxīn dì tīngle tā de gùshì.
+		-
+			en: The beauty expressed her willingness to go to the castle.
+			zh: 美女表示愿意去城堡.
+			pinyin: Měinǚ biǎoshì yuànyì qù chéngbǎo.
+	-
+		lSentences:
+		-
+			en: The beast greeted her.
+			zh: 野兽迎接了她.
+			pinyin: Yěshòu yíngjiēle tā.
+		-
+			en: Beauty wandered around the castle and saw many lovely rooms and many courtyards with gardens.
+			zh: 美女在城堡里四处闲逛, 看到很多可爱的房间和许多带花园的庭院.
+			pinyin: Měinǚ zài chéngbǎo lǐ sìchù xiánguàng, kàn dào hěnduō kě'ài de fángjiān hé xǔduō dài huāyuán de tíngyuàn.
+	-
+		lSentences:
+		-
+			en: Finally she came to a room with a mirror on the wall.
+			zh: 最后她来到一间屋子, 墙上挂着一面镜子.
+			pinyin: Zuìhòu tā lái dào yī jiàn wūzi, qiáng shàng guàzhe yīmiàn jìngzi.
+		-
+			en: To her surprise, when she looked in the mirror, she saw her father return home.
+			zh: 让她惊讶的是, 当她照镜子时, 她看到父亲回到家中.
+			pinyin: Ràng tā jīngyà de shì, dāng tā zhào jìng zǐ shí, tā kàn dào fùqīn huí dào jiāzhōng.
+	-
+		lSentences:
+		-
+			en: Day after day, Beauty had whatever she wanted.
+			zh: 日复一日, 美女拥有任何她想要的东西.
+			pinyin: Rì fù yī rì, měinǚ yǒngyǒu rènhé tā xiǎng yào de dōngxī.
+		-
+			en: Every night the Beast begged her to marry him, but Beauty never agreed.
+			zh: 每天晚上野兽都求她嫁给他, 但是美女一直都没答应.
+			pinyin: Měitiān wǎnshàng yěshòu dōu qiú tā jià gěi tā, dànshì měinǚ yīzhí dōu méi dāyìng.
+	-
+		lSentences:
+		-
+			en: One night, Beauty saw in the mirror that her father was sick.
+			zh: 一天晚上, 美女在镜中看见她父亲生病了.
+			pinyin: Yītiān wǎnshàng, měinǚ zài jìng zhòng kànjiàn tā fùqīn shēngbìngle.
+		-
+			en: She begged the beast to allow her to go back to visit her father.
+			zh: 她向野兽请求回去看望父亲.
+			pinyin: Tā xiàng yěshòu qǐngqiú huíqù kànwàng fùqīn.
+		-
+			en: The Beast said: "If I let you go home, will you be back in a week?"
+			zh: 野兽说: "如果让你回家, 你会在一周内回来吗?"
+			pinyin: Yěshòu shuō: "Rúguǒ ràng nǐ huí jiā, nǐ huì zài yīzhōu nèi huílái ma?"
+		-
+			en: "Of course" Beauty replied.
+			zh: "当然" 美女回答道.
+			pinyin: "Dāngrán" měinǚ huídá dào.
 	-
 		lSentences:
 		-
